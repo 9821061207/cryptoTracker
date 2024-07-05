@@ -10,4 +10,4 @@
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
 
-MIT © [Piyush Agarwal ](https://github.com/9821061207/)
+MIT © [Satyam Kumar Gupta ](https://github.com/9821061207/)
